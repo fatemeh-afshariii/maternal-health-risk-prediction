@@ -54,5 +54,5 @@ python analysis.py
   prediction
 
 ## Author
-A midwifery graduate with a research interest in AI applications in
+Fatemeh Afshari - A midwifery graduate with a research interest in AI applications in
 women's health.
